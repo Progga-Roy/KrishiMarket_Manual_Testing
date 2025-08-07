@@ -1,4 +1,4 @@
-# KrishiMarket_Manual_Testsing Project
+
 # 🧪 KrishiMarket.com.bd – Manual Testing Project
 
 A **manual testing project** on the e-commerce website **[KrishiMarket.com.bd](https://www.krishimarket.com.bd/)** — focused on product filtering, cart, checkout, UI behavior, and user experience validation.
