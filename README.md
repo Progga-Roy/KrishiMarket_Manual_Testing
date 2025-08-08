@@ -32,7 +32,7 @@ KrishiMarket is a digital platform for selling agricultural tools, seeds, and bo
 | ✅ Checkout Flow           | Yes |
 | ✅ Cross-Browser Testing   | Yes |
 | ✅ Security Testing (Basic) | Partial |
-| ✅ Social Media Link Check | Yes |
+
 
 ---
 
@@ -47,14 +47,6 @@ KrishiMarket is a digital platform for selling agricultural tools, seeds, and bo
 
 ## 📝 Test Artifacts
 
-### 🗂️ Test Plan  
-Structured plan covering:
-- Scope
-- Objectives
-- Schedule
-- Environments
-- Entry/Exit Criteria
-
 ### 🧾 Test Cases  
 Detailed test cases for:
 - Category-based filtering  
@@ -65,7 +57,7 @@ Detailed test cases for:
 - Input validations  
 - UI issues
 
-📁 _File: `TestCases/KrishiMarket_TestCases.xlsx`_
+<img src="ScreenShot/Test_Cases.PNG" alt="Homepage" width="700"/>
 
 ### 🧩 Bug Reports  
 All failed test cases documented with:
