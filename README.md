@@ -33,18 +33,6 @@ KrishiMarket is a digital platform for selling agricultural tools, seeds, and bo
 | ✅ Cross-Browser Testing   | Yes |
 | ✅ Security Testing (Basic) | Partial |
 
-
----
-
-## 🧪 Test Summary
-
-- **Total Test Cases:** 210  
-- ✅ **Passed:** 187  
-- ❌ **Failed:** 23  
-- 📊 **Test Coverage:** 100% of major features
-
----
-
 ## 📝 Test Artifacts
 
 ### 🧾 Test Cases  
@@ -66,7 +54,18 @@ All failed test cases documented with:
 - Severity & Priority  
 - Status
 
-📁 _File: `BugReports/KrishiMarket_BugReports.xlsx`_
+ <img src="ScreenShot/Bug_report.PNG" alt="Homepage" width="1000"/>
+
+---
+
+## 🧪 Test Summary
+
+- **Total Test Cases:** 210  
+- ✅ **Passed:** 187  
+- ❌ **Failed:** 23  
+- 📊 **Test Coverage:** 100% of major features
+  
+ <img src="ScreenShot/TestCase_Summary.PNG" alt="Homepage" width="1000"/>
 
 ---
 
@@ -91,31 +90,7 @@ Visual representation of:
 | Bug Fix Rate               | 65%           |
 | Feature Coverage           | 100%          |
 
-> 📈 _See: `Screenshots/Metrics_Chart.png`_
-
----
-
-## 📸 Screenshots
-
-### 🔍 Homepage
-
-![Homepage](Screenshots/Homepage.png)
-
-### 🧮 Category Filter Function
-
-![Category Filter](Screenshots/Category_Filter.png)
-
-### 🛒 Checkout Page
-
-![Checkout Page](Screenshots/Checkout_Page.png)
-
-### ✅ Order Confirmation
-
-![Order Confirmation](Screenshots/Order_Confirmation.png)
-
-### 🐞 Sample Bug Report
-
-![Bug Report](Screenshots/Bug_Report_Sample.png)
+> 📈 _See: ` <img src="ScreenShot/Test_Report.PNG" alt="Homepage" width="1000"/>`_
 
 ---
 
@@ -144,5 +119,3 @@ Visual representation of:
 This manual testing project ensured that **KrishiMarket.com.bd** delivers a reliable, user-friendly, and functional experience for its users. From test planning to execution, this project demonstrates the depth of analysis and testing in real-world web applications.
 
 ---
-
-> 📎 _For full documentation, test cases, and bug reports, explore the folders included in this project._
