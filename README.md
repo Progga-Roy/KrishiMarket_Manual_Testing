@@ -77,9 +77,10 @@ Visual representation of:
 - Scenario branching
 
 📌 Tool Used: **XMind**
+ <img src="ScreenShot/Mindmap.png" alt="Homepage" width="1000"/>
 
----
-
+ ---
+ 
 ## 📊 Test Metrics & Reporting
 
 | Metric                     | Value         |
@@ -90,7 +91,7 @@ Visual representation of:
 | Bug Fix Rate               | 65%           |
 | Feature Coverage           | 100%          |
 
-> 📈 _See: ` <img src="ScreenShot/Test_Report.PNG" alt="Homepage" width="1000"/>`_
+ <img src="ScreenShot/Test_Report.PNG" alt="Homepage" width="1000"/>`
 
 ---
 
