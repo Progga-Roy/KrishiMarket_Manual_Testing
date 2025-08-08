@@ -57,7 +57,7 @@ Detailed test cases for:
 - Input validations  
 - UI issues
 
-<img src="ScreenShot/Test_Cases.PNG" alt="Homepage" width="700"/>
+<img src="ScreenShot/Test_Cases.PNG" alt="Homepage" width="1000"/>
 
 ### 🧩 Bug Reports  
 All failed test cases documented with:
